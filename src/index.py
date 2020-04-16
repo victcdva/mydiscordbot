@@ -24,7 +24,7 @@ async def info(context):
 #Events
 @bot.event
 async def on_ready():
-    #await bot.change_presence(activity=discord.Streaming(name="Tutorials", url="http://www.twitch.tv/accountname"))
+    await bot.change_presence(activity=discord.Streaming(name="Tutorials", url="http://www.twitch.tv/accountname"))
     print("Loading bot...")
 
 bot.run('NzAwNDU5MjYxMDU4MjIwMDYy.XpjPoQ.-XpqjPFVqDxc-ypyoP_289x0FbY')
