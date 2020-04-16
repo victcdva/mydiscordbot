@@ -27,4 +27,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Streaming(name="Tutorials", url="http://www.twitch.tv/accountname"))
     print("Loading bot...")
 
-bot.run('NzAwNDU5MjYxMDU4MjIwMDYy.XpjPoQ.-XpqjPFVqDxc-ypyoP_289x0FbY')
+bot.run('NzAwNDU5MjYxMDU4MjIwMDYy.Xpjrkg.GBqx0NDfAUGxFsQ9DmqjTg0Mvy0')
